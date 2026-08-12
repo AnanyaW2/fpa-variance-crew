@@ -2,7 +2,7 @@
 
 A 3-agent system (built with [CrewAI](https://www.crewai.com/)) that automates the first pass of a monthly budget-vs-actual variance review — the kind of recurring FP&A task that's mechanical but time-consuming.
 
-**Part of a small suite of business-function agent crews** — see also: [AI Job Market Analysis Crew](../ai-job-market-crew).
+**Part of a small suite of business-function agent crews** — see also: [AI Job Market Analysis Crew](https://github.com/AnanyaW2/ai-job-market-crew).
 
 ---
 
