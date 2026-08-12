@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/30966380/README.md)
 # FP&A Variance Analysis Crew
 
 A 3-agent system (built with [CrewAI](https://www.crewai.com/)) that automates the first pass of a monthly budget-vs-actual variance review — the kind of recurring FP&A task that's mechanical but time-consuming.
